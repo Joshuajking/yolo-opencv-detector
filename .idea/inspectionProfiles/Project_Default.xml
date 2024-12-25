@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="21">
+            <item index="0" class="java.lang.String" itemvalue="MANIFEST" />
+            <item index="1" class="java.lang.String" itemvalue="celerybeat-schedule" />
+            <item index="2" class="java.lang.String" itemvalue="celerybeat.pid" />
+            <item index="3" class="java.lang.String" itemvalue="local_settings.py" />
+            <item index="4" class="java.lang.String" itemvalue="db.sqlite3-journal" />
+            <item index="5" class="java.lang.String" itemvalue="com_crashlytics_export_strings.xml" />
+            <item index="6" class="java.lang.String" itemvalue="db.sqlite3" />
+            <item index="7" class="java.lang.String" itemvalue="dmypy.json" />
+            <item index="8" class="java.lang.String" itemvalue="fabric.properties" />
+            <item index="9" class="java.lang.String" itemvalue="pip-log.txt" />
+            <item index="10" class="java.lang.String" itemvalue="coverage.xml" />
+            <item index="11" class="java.lang.String" itemvalue="atlassian-ide-plugin.xml" />
+            <item index="12" class="java.lang.String" itemvalue="pyvenv.cfg" />
+            <item index="13" class="java.lang.String" itemvalue="crashlytics-build.properties" />
+            <item index="14" class="java.lang.String" itemvalue="crashlytics.properties" />
+            <item index="15" class="java.lang.String" itemvalue="pip-selfcheck.json" />
+            <item index="16" class="java.lang.String" itemvalue="pip-delete-this-directory.txt" />
+            <item index="17" class="java.lang.String" itemvalue="nosetests.xml" />
+            <item index="18" class="java.lang.String" itemvalue="pyrightconfig.json" />
+            <item index="19" class="java.lang.String" itemvalue="ipython_config.py" />
+            <item index="20" class="java.lang.String" itemvalue="poetry.toml" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
